@@ -9,7 +9,9 @@ name: Honguk (Drew) Woo
 description: Computer Scientist, ph.d, UT Austin, Samsung Electroncis
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/27143240?v=3&u=33ebc1bc58970bdd3f2977ca7b3b9d4409da6919&s=400
+
+# https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
