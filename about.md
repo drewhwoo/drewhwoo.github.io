@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Head of Open Service Platform Lab, Software Center in Samsung Electronics
+http://scholar.google.co.kr/citations?user=Gaxjc7UAAAAJ
+
+ex-Texan Austin, Working @SAMSUNG, PhD in Computer Sciences,
+Specialized in Cyber-physical System, Real-time, Web, Cloud, IoT
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[honguk.woo@gmail.com](mailto:honguk.woo@gmail.com)
