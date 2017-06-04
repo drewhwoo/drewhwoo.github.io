@@ -8,7 +8,7 @@ title: Kubernetes container networking
 
 ## Docker networking
 
-host-private networking : containers can talk to other containers only if they are on the same machine.
+Host-private networking : containers can talk to other containers only if they are on the same machine.
 
 Port fowarding for mapping of container port and host port. 
 
